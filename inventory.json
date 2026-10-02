@@ -1,22 +1,20 @@
 [
     {
-        "id": "1001",
+        "id": "P001",
         "name": "Laptop",
-        "quantity": 5
+        "price": 1200.0,
+        "stock": 15
     },
     {
-        "id": "1002",
+        "id": "P002",
         "name": "Mouse",
-        "quantity": 10
+        "price": 25.5,
+        "stock": 40
     },
     {
-        "id": "1003",
+        "id": "P003",
         "name": "Keyboard",
-        "quantity": 7
-    },
-    {
-        "id": "1004",
-        "name": "Speaker",
-        "quantity": 3
+        "price": 45.0,
+        "stock": 25
     }
 ]
